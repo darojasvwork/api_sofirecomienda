@@ -1,7 +1,25 @@
 {
   "reviews": [
-    { "id": 1, "title": "Chirripó", "contenido": "Visita al sitio" },
-    { "id": 2, "title": "Prusia", "contenido": "Visita al sitio" },
-    { "id": 3, "title": "Tortuguero", "contenido": "Visita al sitio" }
+    {
+      "id": 1,
+      "title": "Chirripó",
+      "contenido": "Visita al sitio",
+      "thumbnail": ".\\assets\\img\\portfolio\\01-thumbnail.jpg",
+      "image": ".\\assets\\img\\portfolio\\01-full.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Prusia",
+      "contenido": "Visita al sitio",
+      "thumbnail": ".\\assets\\img\\portfolio\\02-thumbnail.jpg",
+      "image": ".\\assets\\img\\portfolio\\02-full.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tortuguero",
+      "contenido": "Visita al sitio",
+      "thumbnail": ".\\assets\\img\\portfolio\\03-thumbnail.jpg",
+      "image": ".\\assets\\img\\portfolio\\03-full.jpg"
+    }
   ]
 }
