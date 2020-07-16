@@ -5,8 +5,6 @@
   "description": "Api del sitio de Sofi recomienda",
   "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "json-server -p 3001- w "
   },
   "author": "DRVLabs",

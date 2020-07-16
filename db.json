@@ -3,7 +3,5 @@
     { "id": 1, "title": "Chirripo", "contenido": "Visita al sitio" },
     { "id": 2, "title": "Prusia", "contenido": "Visita al sitio" },
     { "id": 3, "title": "Tortuguero", "contenido": "Visita al sitio" }
-  ],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  ]
 }
