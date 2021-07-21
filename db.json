@@ -3,21 +3,22 @@
     {
       "id": 1,
       "title": "Restaurantes",
-      "subtitle": "Restaurantes visitados.",
-      "thumbnail": "\\assets\\img\\lugares\\01-thumbnail.jpg",
-      "image": "\\assets\\img\\lugares\\01-full.jpg"     
-    }
-  ],
-  "reviews": [
-    {
-      "id": 1,
-      "title": "Chirripó",
-      "subtitle": "Visita al parque nacional Chirripo, una de las experiencias mas desafiantes en mi vida.",
-      "experience": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere nunc enim, non ultrices felis semper quis. Pellentesque eget dui maximus, pellentesque mauris ac, finibus nisi. Integer viverra justo malesuada, sollicitudin risus non, dictum ante. Mauris nisl dolor, aliquam quis accumsan vitae, ultrices id metus. Morbi ultrices interdum auctor. Integer quis iaculis nisl. Nam sem nisl, volutpat ac fringilla ac, aliquam quis erat. Aenean tincidunt eu felis eget pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere nunc enim, non ultrices felis semper quis. Pellentesque eget dui maximus, pellentesque mauris ac, finibus nisi. Integer viverra justo malesuada, sollicitudin risus non, dictum ante. Mauris nisl dolor, aliquam quis accumsan vitae, ultrices id metus. Morbi ultrices interdum auctor. Integer quis iaculis nisl. Nam sem nisl, volutpat ac fringilla ac, aliquam quis erat. Aenean tincidunt eu felis eget pellentesque.",
-      "impressions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere nunc enim, non ultrices felis semper quis. Pellentesque eget dui maximus, pellentesque mauris ac, finibus nisi. Integer viverra justo malesuada, sollicitudin risus non, dictum ante. Mauris nisl dolor, aliquam quis accumsan vitae, ultrices id metus. Morbi ultrices interdum auctor. Integer quis iaculis nisl. Nam sem nisl, volutpat ac fringilla ac, aliquam quis erat. Aenean tincidunt eu felis eget pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere nunc enim, non ultrices felis semper quis. Pellentesque eget dui maximus, pellentesque mauris ac, finibus nisi. Integer viverra justo malesuada, sollicitudin risus non, dictum ante. Mauris nisl dolor, aliquam quis accumsan vitae, ultrices id metus. Morbi ultrices interdum auctor. Integer quis iaculis nisl. Nam sem nisl, volutpat ac fringilla ac, aliquam quis erat. Aenean tincidunt eu felis eget pellentesque.",
-      "thumbnail": "\\assets\\img\\portfolio\\01-thumbnail.jpg",
-      "image": "\\assets\\img\\portfolio\\01-full.jpg",
-      "date_publish": "2020-07-10"
+      "subtitle": "Inspecciones.",
+      "banner": "\\assets\\img\\lugares\\01-thumbnail.jpg",
+      "reviews": [
+        {
+          "id": 1,
+          "title": "Muelle 21",
+          "Ubicación": "Tres Rios, Cartago",
+          "Tipo":"Marisquería",
+          "subtitle": "Visita al parque nacional Chirripo, una de las experiencias mas desafiantes en mi vida.",
+          "experience": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere nunc enim, non ultrices felis semper quis. Pellentesque eget dui maximus, pellentesque mauris ac, finibus nisi. Integer viverra justo malesuada, sollicitudin risus non, dictum ante. Mauris nisl dolor, aliquam quis accumsan vitae, ultrices id metus. Morbi ultrices interdum auctor. Integer quis iaculis nisl. Nam sem nisl, volutpat ac fringilla ac, aliquam quis erat. Aenean tincidunt eu felis eget pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere nunc enim, non ultrices felis semper quis. Pellentesque eget dui maximus, pellentesque mauris ac, finibus nisi. Integer viverra justo malesuada, sollicitudin risus non, dictum ante. Mauris nisl dolor, aliquam quis accumsan vitae, ultrices id metus. Morbi ultrices interdum auctor. Integer quis iaculis nisl. Nam sem nisl, volutpat ac fringilla ac, aliquam quis erat. Aenean tincidunt eu felis eget pellentesque.",
+          "impressions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere nunc enim, non ultrices felis semper quis. Pellentesque eget dui maximus, pellentesque mauris ac, finibus nisi. Integer viverra justo malesuada, sollicitudin risus non, dictum ante. Mauris nisl dolor, aliquam quis accumsan vitae, ultrices id metus. Morbi ultrices interdum auctor. Integer quis iaculis nisl. Nam sem nisl, volutpat ac fringilla ac, aliquam quis erat. Aenean tincidunt eu felis eget pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere nunc enim, non ultrices felis semper quis. Pellentesque eget dui maximus, pellentesque mauris ac, finibus nisi. Integer viverra justo malesuada, sollicitudin risus non, dictum ante. Mauris nisl dolor, aliquam quis accumsan vitae, ultrices id metus. Morbi ultrices interdum auctor. Integer quis iaculis nisl. Nam sem nisl, volutpat ac fringilla ac, aliquam quis erat. Aenean tincidunt eu felis eget pellentesque.",
+          "thumbnail": "\\assets\\img\\portfolio\\01-thumbnail.jpg",
+          "image": "\\assets\\img\\portfolio\\01-full.jpg",
+          "date_publish": "2020-07-10"
+        }
+      ]
     }
   ]
 }
