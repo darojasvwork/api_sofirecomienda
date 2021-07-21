@@ -11,6 +11,8 @@
         {
           "id": 1,
           "title": "Muelle 21",
+          "negocio": "Marisquería",
+          "lugar": "Marisquería",
           "Descripción": "Te cuento que los amigos de Muelle 21 una marisquería en Tres Ríos, me invitaron a conocer su restaurante y celebrar mi primer aniversario. Hoy te quiero compartir como es este lugar desde mi punto de vista como directora de empresas y con experiencia en alimentos, bebidas, turismo y bienestar.",
           "Comentario": "Completamente, tienen buena comida, menú variado, buen servicio al cliente, buena ubicación, buen parqueo. Les aseguro que les va a gustar vayan solos, con amigos, con familia o en pareja, si van me cuentan.",
           "Ubicacion": [
@@ -83,7 +85,7 @@
           },
           "thumbnail": "\\assets\\img\\review\\01-thumbnail.jpg",
           "image": "\\assets\\img\\rewiev\\01-full.jpg",
-          "date_publish": "2020-07-21"
+          "date_publish": "21 de Julio de 2021"
         }
       ]
     }
