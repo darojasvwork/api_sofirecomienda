@@ -123,7 +123,7 @@
       },
       "thumbnail": "\\assets\\img\\reviews\\1\\thumbnail.webp",
       "image": "\\assets\\img\\reviews\\1\\full.webp",
-      "date_publish": "Julio de 2021"
+      "date_publish": "21-07-2021"
     },
     {
       "id": 2,
@@ -169,7 +169,7 @@
       },
       "thumbnail": "\\assets\\img\\reviews\\2\\thumbnail.webp",
       "image": "\\assets\\img\\reviews\\2\\full.webp",
-      "date_publish": "Agosto de 2021"
+      "date_publish": "01-01-1900"
     },
     {
       "id": 3,
@@ -215,7 +215,7 @@
       },
       "thumbnail": "\\assets\\img\\reviews\\3\\thumbnail.webp",
       "image": "\\assets\\img\\reviews\\3\\full.webp",
-      "date_publish": "Setiembre de 2021"
+      "date_publish": "01-01-1900"
     }
   ]
 }
