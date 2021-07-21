@@ -124,6 +124,7 @@
       },
       "thumbnail": "\\assets\\img\\reviews\\1\\thumbnail.webp",
       "image": "\\assets\\img\\reviews\\1\\full.webp",
+      "icon":"utensils icon",
       "date_publish": "21072021"
     },
     {
@@ -171,6 +172,7 @@
       },
       "thumbnail": "\\assets\\img\\reviews\\2\\thumbnail.webp",
       "image": "\\assets\\img\\reviews\\2\\full.webp",
+      "icon":"",
       "date_publish": "01011900"
     },
     {
@@ -218,6 +220,7 @@
       },
       "thumbnail": "\\assets\\img\\reviews\\3\\thumbnail.webp",
       "image": "\\assets\\img\\reviews\\3\\full.webp",
+      "icon":"",
       "date_publish": "01011900"
     }
   ]
