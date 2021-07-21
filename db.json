@@ -1,4 +1,13 @@
 {
+  "Lugares": [
+    {
+      "id": 1,
+      "title": "Restaurantes",
+      "subtitle": "Restaurantes visitados.",
+      "thumbnail": "\\assets\\img\\lugares\\01-thumbnail.jpg",
+      "image": "\\assets\\img\\lugares\\01-full.jpg"     
+    }
+  ],
   "reviews": [
     {
       "id": 1,
