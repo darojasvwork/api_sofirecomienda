@@ -12,7 +12,7 @@
           "id": 1,
           "title": "Muelle 21",
           "negocio": "Marisquería",
-          "lugar": "Marisquería",
+          "lugar": "Tres Rios, Cartago",
           "Descripción": "Te cuento que los amigos de Muelle 21 una marisquería en Tres Ríos, me invitaron a conocer su restaurante y celebrar mi primer aniversario. Hoy te quiero compartir como es este lugar desde mi punto de vista como directora de empresas y con experiencia en alimentos, bebidas, turismo y bienestar.",
           "Comentario": "Completamente, tienen buena comida, menú variado, buen servicio al cliente, buena ubicación, buen parqueo. Les aseguro que les va a gustar vayan solos, con amigos, con familia o en pareja, si van me cuentan.",
           "Ubicacion": [
@@ -31,7 +31,7 @@
             "Adultos Desde los 4700 colones (ceviche de corvina) – 15 000 colones (cortes de carne como rib eye)",
             "Niños 2500 (orden de papas) – 3900 (dedidos de pollo, pescado)"
           ],
-          "CalificacionGeneral": "4.4",
+          "CalificacionGeneral": 4.4,
           "CalificacionUbicacion": {
             "Puntaje": 5,
             "Detalle": [
@@ -85,7 +85,52 @@
           },
           "thumbnail": "\\assets\\img\\review\\01-thumbnail.jpg",
           "image": "\\assets\\img\\rewiev\\01-full.jpg",
-          "date_publish": "21 de Julio de 2021"
+          "date_publish": "Julio de 2021"
+        },
+        {
+          "id": 2,
+          "title": "Proximamente",
+          "negocio": "",
+          "lugar": "",
+          "Descripción": "",
+          "Comentario": "",
+          "Ubicacion": [],
+          "Tipo": "",
+          "Horario": [],
+          "Ambiente": [],
+          "Precios": [],
+          "CalificacionGeneral": "",
+          "CalificacionUbicacion": {
+            "Puntaje": "",
+            "Detalle": []
+          },
+          "CalificacionServicioCliente": {
+            "Puntaje": "",
+            "Detalle": []
+          },
+          "CalificacionInfraestructura": {
+            "Puntaje": "",
+            "Detalle": []
+          },
+          "CalificacionLimpieza": {
+            "Puntaje": "",
+            "Detalle": []
+          },
+          "CalificacionCalidadPrecio": {
+            "Puntaje": "",
+            "Detalle": []
+          },
+          "CalificacionProtocolos": {
+            "Puntaje": "",
+            "Detalle": []
+          },
+          "CalificacionInclusion": {
+            "Puntaje": "",
+            "Detalle": []
+          },
+          "thumbnail": "\\assets\\img\\review\\01-thumbnail.jpg",
+          "image": "\\assets\\img\\rewiev\\01-full.jpg",
+          "date_publish": "Agosto de 2021"
         }
       ]
     }
