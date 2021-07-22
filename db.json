@@ -15,8 +15,8 @@
           "negocio": "Marisquería",
           "lugar": "Tres Rios, Cartago",
           "CalificacionGeneral": 4.4,
-          "thumbnail": "\\assets\\img\\reviews\\1\\thumbnail.webp",
-          "image": "\\assets\\img\\reviews\\1\\full.webp",
+          "thumbnail": "\\assets\\img\\Reviews\\1\\thumbnail.webp",
+          "image": "\\assets\\img\\Reviews\\1\\full.webp",
           "date_publish": "Julio de 2021"
         },
         {
@@ -26,8 +26,8 @@
           "negocio": "",
           "lugar": "",
           "CalificacionGeneral": "",
-          "thumbnail": "\\assets\\img\\reviews\\3\\thumbnail.webp",
-          "image": "\\assets\\img\\reviews\\3\\full.webp",
+          "thumbnail": "\\assets\\img\\Reviews\\3\\thumbnail.webp",
+          "image": "\\assets\\img\\Reviews\\3\\full.webp",
           "date_publish": "Setiembre de 2021"
         },
         {
@@ -37,8 +37,8 @@
           "negocio": "",
           "lugar": "",
           "CalificacionGeneral": "",
-          "thumbnail": "\\assets\\img\\reviews\\3\\thumbnail.webp",
-          "image": "\\assets\\img\\reviews\\3\\full.webp",
+          "thumbnail": "\\assets\\img\\Reviews\\3\\thumbnail.webp",
+          "image": "\\assets\\img\\Reviews\\3\\full.webp",
           "date_publish": "Setiembre de 2021"
         }
       ]
@@ -122,8 +122,8 @@
           "Se puede mejorar teniendo alguna persona capacitada en Lesco."
         ]
       },
-      "thumbnail": "\\assets\\img\\reviews\\1\\thumbnail.webp",
-      "image": "\\assets\\img\\reviews\\1\\full.webp",
+      "thumbnail": "\\assets\\img\\Reviews\\1\\thumbnail.webp",
+      "image": "\\assets\\img\\Reviews\\1\\full.webp",
       "icon":"utensils icon",
       "date_publish": "21072021"
     },
@@ -170,8 +170,8 @@
         "Puntaje": "",
         "Detalle": []
       },
-      "thumbnail": "\\assets\\img\\reviews\\2\\thumbnail.webp",
-      "image": "\\assets\\img\\reviews\\2\\full.webp",
+      "thumbnail": "\\assets\\img\\Reviews\\2\\thumbnail.webp",
+      "image": "\\assets\\img\\Reviews\\2\\full.webp",
       "icon":"",
       "date_publish": "01011900"
     },
@@ -218,8 +218,8 @@
         "Puntaje": "",
         "Detalle": []
       },
-      "thumbnail": "\\assets\\img\\reviews\\3\\thumbnail.webp",
-      "image": "\\assets\\img\\reviews\\3\\full.webp",
+      "thumbnail": "\\assets\\img\\Reviews\\3\\thumbnail.webp",
+      "image": "\\assets\\img\\Reviews\\3\\full.webp",
       "icon":"",
       "date_publish": "01011900"
     }
