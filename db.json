@@ -123,7 +123,7 @@
         ]
       },
       "thumbnail": "\\assets\\img\\reviews\\1\\thumbnail.webp",
-      "image": "\\assets\\img\\reviews\\1\\full.webp",
+      "image": "/assets/img/reviews/1/full.webp",
       "icon":"utensils icon",
       "date_publish": "21072021"
     },
@@ -171,7 +171,7 @@
         "Detalle": []
       },
       "thumbnail": "\\assets\\img\\reviews\\2\\thumbnail.webp",
-      "image": "\\assets\\img\\reviews\\2\\full.webp",
+      "image": "/assets/img/reviews/2/full.webp",
       "icon":"",
       "date_publish": "01011900"
     },
