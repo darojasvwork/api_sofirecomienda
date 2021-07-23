@@ -5,7 +5,7 @@
       "title": "Restaurantes",
       "subtitle": "Inspecciones.",
       "descripcion": "Me gusta llamar inspección a compartirte los puntos más importantes para mí de un lugar, lo que vas a leer se basa en una visita realizada al local. ¿Qué significan las rosas? Es la manera en la que doy las puntuaciones y dependiendo de la cantidad así significan: 1 rosa: muy insatisfecha, 2 rosas: insatisfecha, 3 rosas: regular, 4 rosas: satisfecha, 5 rosas: muy satisfecha",
-      "banner": "\\assets\\img\\lugares\\1\\full.webp",
+      "banner": "/assets/img/lugares/1/full.webp",
       "thumbnail": "\\assets\\img\\lugares\\1\\thumbnail.webp",
       "reviewsEncabezado": [
         {
@@ -16,7 +16,7 @@
           "lugar": "Tres Rios, Cartago",
           "CalificacionGeneral": 4.4,
           "thumbnail": "\\assets\\img\\reviews\\1\\thumbnail.webp",
-          "image": "\\assets\\img\\reviews\\1\\full.webp",
+          "image": "/assets/img/reviews/1/full.webp",
           "date_publish": "Julio de 2021"
         },
         {
@@ -27,7 +27,7 @@
           "lugar": "",
           "CalificacionGeneral": "",
           "thumbnail": "\\assets\\img\\reviews\\3\\thumbnail.webp",
-          "image": "\\assets\\img\\reviews\\3\\full.webp",
+          "image": "/assets/img/reviews/3/full.webp",
           "date_publish": "Setiembre de 2021"
         },
         {
@@ -38,7 +38,7 @@
           "lugar": "",
           "CalificacionGeneral": "",
           "thumbnail": "\\assets\\img\\reviews\\3\\thumbnail.webp",
-          "image": "\\assets\\img\\reviews\\3\\full.webp",
+          "image": "/assets/img/reviews/3/full.webp",
           "date_publish": "Setiembre de 2021"
         }
       ]
@@ -219,7 +219,7 @@
         "Detalle": []
       },
       "thumbnail": "\\assets\\img\\reviews\\3\\thumbnail.webp",
-      "image": "\\assets\\img\\reviews\\3\\full.webp",
+      "image": "/assets/img/review/3/full.webp",
       "icon":"",
       "date_publish": "01011900"
     }
