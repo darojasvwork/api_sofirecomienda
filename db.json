@@ -60,7 +60,8 @@
       ],
       "Tipo": ["Mariscos (su especialidad)", "Carnes", "Pastas Ensaladas"],
       "Horario": [
-        "Lunes a sábado de 11:30 am a 8:30 pm Domingo 11:30am a 6:00pm"
+        "Lunes a sábado de 11:30 am a 8:30 pm",
+        "Domingo 11:30am a 6:00pm"
       ],
       "Ambiente": [
         "Familiar",
@@ -80,7 +81,7 @@
       "CalificacionServicioCliente": {
         "Puntaje": 5,
         "Detalle": [
-          "La ubicación es super conveniente cerca de centros comerciales, supermercados, gimnasios y demás, está sobre carretera principal, super fácil el acceso, calle completamente asfaltada, segura, con mucha luz y se encuentra en waze."
+          "Considero es uno de los puntos más fuertes del restaurante. Hay una persona que recibe a los clientes, se asegura de buscar un buen espacio para las personas, de que cumplan los protocolos de lavado y desinfección de manos antes de entrar. Dan una muy buena bienvenida, están anuentes a responder preguntas, dar recomendaciones en el menú. Cuando llegan los platillos les interesa por saber que piensa el cliente de la comida y también se les ve interés por saber que están pasando un buen momento. Desde la entrada hasta la despedida fueron impecables."
         ]
       },
       "CalificacionInfraestructura": {
@@ -122,9 +123,9 @@
           "Se puede mejorar teniendo alguna persona capacitada en Lesco."
         ]
       },
-      "thumbnail": "\\assets\\img\\reviews\\1\\thumbnail.webp",
+      "path": "\\assets\\img\\reviews\\1\\",
       "image": "/assets/img/reviews/1/full.webp",
-      "icon":"utensils icon",
+      "icon": "utensils icon",
       "date_publish": "21072021"
     },
     {
@@ -170,9 +171,9 @@
         "Puntaje": "",
         "Detalle": []
       },
-      "thumbnail": "\\assets\\img\\reviews\\2\\thumbnail.webp",
+      "path": "\\assets\\img\\reviews\\1\\",
       "image": "/assets/img/reviews/2/full.webp",
-      "icon":"",
+      "icon": "",
       "date_publish": "01011900"
     },
     {
@@ -218,9 +219,9 @@
         "Puntaje": "",
         "Detalle": []
       },
-      "thumbnail": "\\assets\\img\\reviews\\3\\thumbnail.webp",
+      "path": "\\assets\\img\\reviews\\1\\",
       "image": "/assets/img/review/3/full.webp",
-      "icon":"",
+      "icon": "",
       "date_publish": "01011900"
     }
   ]
